@@ -7608,6 +7608,8 @@ in {
 
   pybindgen = callPackage ../development/python-modules/pybindgen { };
 
+  pybktree = callPackage ../development/python-modules/pybktree { };
+
   pyblackbird = callPackage ../development/python-modules/pyblackbird { };
 
   pyblake2 = callPackage ../development/python-modules/pyblake2 { };
